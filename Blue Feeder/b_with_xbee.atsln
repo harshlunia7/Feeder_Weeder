@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "b_with_xbee", "b_with_xbee\b_with_xbee.cproj", "{6D1F9330-F18B-431E-BE67-FEBF4BFAC4EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D1F9330-F18B-431E-BE67-FEBF4BFAC4EB}.Debug|AVR.ActiveCfg = Debug|AVR
+		{6D1F9330-F18B-431E-BE67-FEBF4BFAC4EB}.Debug|AVR.Build.0 = Debug|AVR
+		{6D1F9330-F18B-431E-BE67-FEBF4BFAC4EB}.Release|AVR.ActiveCfg = Release|AVR
+		{6D1F9330-F18B-431E-BE67-FEBF4BFAC4EB}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
