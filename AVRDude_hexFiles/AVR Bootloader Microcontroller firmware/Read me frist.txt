@@ -1,0 +1,2 @@
+Load correct bootloader as per the Crystal frequecy of 14.7456MHz or 11.0592MHz
+and UART 1 and UART 2.
